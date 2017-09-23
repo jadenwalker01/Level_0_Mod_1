@@ -7,7 +7,7 @@ public class horoscope
 public static void main(String[] args) 
 
 {
-	String January= "you will be cought in a blizard then you will be rescued by a helicopter and brought safly home";
+	String January = "you will be cought in a blizard then you will be rescued by a helicopter and brought safly home";
 	String Febuary = "you will get lots of candy durng valentines day";
 	String March = "your house will go completly green including you";
 	String April = "you will see the easter bunny";
@@ -69,16 +69,6 @@ public static void main(String[] args)
 	{
 	JOptionPane.showMessageDialog(null, December);
 	}
-
-
-
-
-
-
-
-
-
-
 
 }
 }
