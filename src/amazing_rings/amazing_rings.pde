@@ -19,12 +19,19 @@ y=y-8;
 ellipse(x2,500,x,y);
 x=x-8;
 y=y-8;
+
   }
 }
 void draw()
 {
+ 
+ 
 
-
+  ellipse(x2,500,x,y);
+  
+x2=x2-1;
+background(250,250,250);
+ellipse(x2,500,x,y);
 
   
 } 
